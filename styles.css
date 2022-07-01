@@ -1,0 +1,251 @@
+.background{width: 100%;
+
+}
+.DD{margin-top: 0;
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 0;
+height: 100%;
+}
+.A{ text-align: center;
+position: relative;
+bottom: 650px;
+font-family: 'Sacramento', cursive;
+font-size: 4rem;
+font-weight: normal;
+color: white;
+}
+.B{text-align: center;
+position: relative;
+bottom: 500px;
+color: #112B3C;
+font-weight: normal;
+font-size: 3rem;
+font-family: 'Sacramento', cursive; }
+.A:hover{color: #371B58;}
+.B:hover{
+  color: #2F8F9D;
+}
+span{color: BLACK;}
+
+.E{
+  background: #17191a;
+  background-image: -webkit-linear-gradient(top, #17191a, #050d12);
+  background-image: -moz-linear-gradient(top, #17191a, #050d12);
+  background-image: -ms-linear-gradient(top, #17191a, #050d12);
+  background-image: -o-linear-gradient(top, #17191a, #050d12);
+  background-image: linear-gradient(to bottom, #17191a, #050d12);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 5px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  top:10px;
+}
+
+.E:hover {
+  background: #fc833c;
+  background-image: -webkit-linear-gradient(top, #fc833c, #3498db);
+  background-image: -moz-linear-gradient(top, #fc833c, #3498db);
+  background-image: -ms-linear-gradient(top, #fc833c, #3498db);
+  background-image: -o-linear-gradient(top, #fc833c, #3498db);
+  background-image: linear-gradient(to bottom, #fc833c, #3498db);
+  text-decoration: none;
+}
+html{height: 100%;}
+
+.kit{
+  width: 100%;
+
+}
+
+.I{
+  margin: 0;
+  height: 100%;
+}
+.sha{width: 300px;
+position: absolute;
+right: 150px;
+top: 150px;
+border-radius: 10px;}
+.flower{
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+.Farewell{
+  font-weight: normal;
+  font-size: 5rem;
+  font-family: 'Sacramento', cursive;
+  position: absolute;
+bottom: 150px;
+  left:  740px;
+}
+.both{
+  font-family: 'The Nautigal', cursive;
+  font-size: 4rem;
+  position: absolute;
+  left: 600px;
+  top:  500px;
+  padding-top: 90px;
+}
+.da{font-weight: normal;
+font-size: 5rem;
+font-family: 'Sacramento', cursive;
+position: absolute;
+left: 740px;
+top:  470px;
+}
+
+.btn {
+  background: #d93434;
+  background-image: -webkit-linear-gradient(top, #d93434, #2980b9);
+  background-image: -moz-linear-gradient(top, #d93434, #2980b9);
+  background-image: -ms-linear-gradient(top, #d93434, #2980b9);
+  background-image: -o-linear-gradient(top, #d93434, #2980b9);
+  background-image: linear-gradient(to bottom, #d93434, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  bottom:70px;
+  left: 800px;
+}
+
+.btn:hover {
+  background: #fc3cec;
+  background-image: -webkit-linear-gradient(top, #fc3cec, #e6db0e);
+  background-image: -moz-linear-gradient(top, #fc3cec, #e6db0e);
+  background-image: -ms-linear-gradient(top, #fc3cec, #e6db0e);
+  background-image: -o-linear-gradient(top, #fc3cec, #e6db0e);
+  background-image: linear-gradient(to bottom, #fc3cec, #e6db0e);
+  text-decoration: none;
+
+}
+.ooo{
+  text-align: center;
+  width: 50%;
+  background-color: #A0D995;
+  margin: auto;
+  height: 100%;
+}
+.koo{
+  background-color: #53BF9D;
+padding-bottom: 70px;
+margin-top: 40px;
+}
+.moo{
+  font-weight: normal;
+  line-height: 2;
+color: white;
+padding-top: 30px;
+font-family: 'Sacramento', cursive;
+font-size: 2rem;
+
+}
+
+.noo{  background-color: #53BF9D;
+padding-bottom: 50px;
+
+padding-top: 20px;
+}
+
+.hoo{
+  font-family: 'The Nautigal', cursive;
+  font-size: 2rem;
+  line-height: 2;
+  text-align: right;
+
+}
+.hoo:hover{color: white;}
+.eoo {
+  background: #113147;
+  background-image: -webkit-linear-gradient(top, #113147, #2980b9);
+  background-image: -moz-linear-gradient(top, #113147, #2980b9);
+  background-image: -ms-linear-gradient(top, #113147, #2980b9);
+  background-image: -o-linear-gradient(top, #113147, #2980b9);
+  background-image: linear-gradient(to bottom, #113147, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+position: relative;
+top:  20px;
+}
+
+.eoo:hover {
+  background: #315e18;
+  background-image: -webkit-linear-gradient(top, #315e18, #bd0f66);
+  background-image: -moz-linear-gradient(top, #315e18, #bd0f66);
+  background-image: -ms-linear-gradient(top, #315e18, #bd0f66);
+  background-image: -o-linear-gradient(top, #315e18, #bd0f66);
+  background-image: linear-gradient(to bottom, #315e18, #bd0f66);
+  text-decoration: none;
+}
+.Rishab{
+  position:absolute;
+  left: 1180px;
+  top:200px;
+  border-radius: 10px;
+
+}
+.Devil{
+  position: absolute;
+  right: 1200px;
+  top: 600px;
+  border-radius: 10px;
+}
+.rin{  font-weight: normal;
+  line-height: 2;
+color: white;
+padding-top: 30px;
+font-family: 'Sacramento', cursive;
+font-size: 2rem;}
+.rf{text-align: center;
+width: 50%;
+background-color: #A0D995;
+margin: auto;
+height: 100%;}
+
+.rrr{
+  font-family: 'The Nautigal', cursive;
+  font-size: 2.5rem;
+  line-height: 2;
+  text-align: right;
+
+}
+.rrr:hover{color: white;}
+.rl{ background-color: #53BF9D;
+padding-bottom: 50px;
+
+padding-top: 20px;}
+.chawda{
+  position: absolute;
+  left: 1150px;
+  top: 200px;
+  border-radius: 10px;
+}
+.chip{
+  position: absolute;
+  left: 1390px;
+  top: 140px;
+}
+.uuu{
+  position: absolute;
+  right: 1200px;
+  top:500px;
+  border-radius: 10px;
+}
